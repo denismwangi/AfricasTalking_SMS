@@ -42,6 +42,7 @@ The SDK needs to be initialized with your app username and API key, which you ge
 
 > You can use this SDK for either production or sandbox apps. For sandbox, the app username is **ALWAYS** `sandbox`
 
+- Open and change application.yml
 ```yml
 africastalking:
   USERNAME: 
