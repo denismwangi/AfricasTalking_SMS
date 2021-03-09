@@ -33,7 +33,13 @@ private final AtSmsService atSmsService;
 	public void SendSms(@Valid @RequestBody SmsRequest smsRequest) {
 		smsService.sendSms(smsRequest);
 	}
+	
 	*/
+	
+	/*
+	 * sending form data
+	 */
+	
 	@PostMapping("/send")
 	public void SendSms( SmsRequest smsRequest) {
 		atSmsService.sendSms(smsRequest);
