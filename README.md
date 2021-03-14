@@ -1,6 +1,5 @@
 # AfricasTalking_SMS
 
-## usage
 ## Documentation
 Take a look at the [API docs here](http://docs.africastalking.com).
 
