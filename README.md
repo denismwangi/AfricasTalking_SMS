@@ -13,7 +13,6 @@ You can depend on the .jar through Maven (from `http://dl.bintray.com/africastal
   <version>3.3.3</version>
 </dependency>
 ```
-
 or sbt:
 
 ```
